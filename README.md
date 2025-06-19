@@ -8,3 +8,6 @@
 
 
 Переход с главной страницы на страницу входа реализован с помощью useNavigate. Валидация формы с помощью Formik.*
+![image](https://github.com/user-attachments/assets/fc6cd359-9d70-4cef-bc4c-a30f7b8f758c)
+![image](https://github.com/user-attachments/assets/16976715-4bb9-43a9-98ee-bb847d99e06b)
+![image](https://github.com/user-attachments/assets/c1121fda-5ee7-4920-9b12-063ee965be15)
